@@ -1,10 +1,85 @@
 [
     {
-        "id":1,
-        "produto":"bone",
-        "descricao":"bone beje",
-        "preco":92.0,
+        "id": 1,
+        "produto": "bone",
+        "descricao": "bone beje",
+        "preco": 92.0,
         "imagem": "https://imgcentauro-a.akamaihd.net/1300x1300/96750112A7.jpg"
-    }
+    },
+    {
+        "id": 2,
+        "produto": "Blusa",
+        "descricao": "Blusa preta",
+        "preco": 120.0,
+        "imagem": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/stillosb/catalog/produtos/camiseta-lisa/camiseta-stillos-brother-lisa-preto-verso.jpg"
+    },
+    {
+        "id": 3,
+        "produto": "Bermuda jeans",
+        "descricao": "Bermuda jeans",
+        "preco": 200.0,
+        "imagem": "https://shoppingcity.com.br/media/catalog/product/cache/51a80c9da94f85ac42b65ba251e9fd91/b/e/bermuda_masculina_jeans_azul_claro_destroyed_mood.jpg"
+    },
+    {
+        "id": 4,
+        "produto": "Corrente ",
+        "descricao": "corrente de prata",
+        "preco": 150.0,
+        "imagem": "https://images.tcdn.com.br/img/img_prod/654741/199_0_20180831180504.jpg"
+    },
+    {
+        "id": 5,
+        "produto": "bone",
+        "descricao": "bone preto",
+        "preco": 171.9,
+        "imagem": "https://www.lojaspresidente.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/o/bone-nike-dri-fit-club-unissex-preto-prata-.jpg"
+    },
+    {
+        "id": 6,
+        "produto": "tenis",
+        "descricao": "tenis",
+        "preco": 180.0,
+        "imagem": "https://imgnike-a.akamaihd.net/1300x1300/0265315CA8.jpg"
+    },
+    {
+        "id": 7,
+        "produto": "Tenis TN",
+        "descricao": "Tenis TN",
+        "preco": 300.0,
+        "imagem": "https://s.lojakings.com.br/product/2024/09/crop.jpg"
+    }, {
+        "id": 8,
+        "produto": "camisa do maior do mundo",
+        "descricao": "Corinthians",
+        "preco": 200.0,
+        "imagem": "https://acdn-us.mitiendanube.com/stores/002/205/667/products/1000086052-db1712f3d837096a1717266743967323-640-0.png"
+    }, {
+        "id": 9,
+        "produto": "Corrente ",
+        "descricao": "corrente de ouro",
+        "preco": 5.000000,
+        "imagem": "https://acdn-us.mitiendanube.com/stores/005/077/754/products/74ec850d83ce42e9ba18b3f8887729792fproduct2fimages2f50023642fc815580a7e5d4f448067e1acd79e6218-76dd311289fce233f817262365805025-1024-1024.jpeg"
+    },
+    {
+        "id": 10,
+        "produto": "Polo",
+        "descricao": "Polo preta",
+        "preco": 44.0,
+        "imagem": "https://cdn.sistemawbuy.com.br/arquivos/7639c43db34c0aaa73dd356258077ff9/produtos/66082781568fc/camisa_polo_masculina_piquet_manga_curta_preta_407_1_0b940b80be8826f508ce223bb18893e6-6608278d9b5ac.webp"
+    },
+    {
+        "id": 11,
+        "produto": "Blusa de frio",
+        "descricao": "Blusa preta",
+        "preco": 92.0,
+        "imagem": "https://cdn.awsli.com.br/2500x2500/1285/1285039/produto/268094393/149-4xunriv3yq.jpg"
+    },
+    {
+        "id": 12,
+        "produto": "bone",
+        "descricao": "bone Azul",
+        "preco": 88.0,
+        "imagem": "https://images.tcdn.com.br/img/img_prod/761817/bone_new_era_new_york_yankees_destroyed_azul_3125_1_09704fe8ddc3ca2b2a938523b979a898_20230306181218.jpg"
+    },
+    {}
 ]
-   
